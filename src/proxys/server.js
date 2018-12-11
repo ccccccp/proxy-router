@@ -14,5 +14,4 @@ const createServer = (cb) => {
     });
     return server;
 }
-
 module.exports = createServer;
